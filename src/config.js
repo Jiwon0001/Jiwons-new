@@ -1,20 +1,18 @@
 const profile = {
-  fullName: 'Website Owner',
-  description: 'FRONT-END DEVELOPER',
+  fullName: 'Jiwon',
+  description: 'E-Scooter Services',
   // The basepath is the assets folder
   /// the file sould be imported in assets-import.js
   avatarPath: 'avatar.svg',
   about: {
-    title: `HEY THERE! 
-    I'M WEBSITE OWNER`,
-    description: `Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-    veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-   
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis.`,
+    title: `Hello!! 
+    Welcome to JiwonWorkz`,
+    description: `I am a Limited time Electric Scooter Builder with Clean Wirings and Many others services. If you are interested in building a scooter for your own do come and contact me! 
+   `,
     findMeOn: [
       {
         iconName: 'location',
-        text: 'Location, Place',
+        text: 'Singapore, Woodlands',
         url: '',
         hoverColor: '#546e7a'
       },
@@ -27,7 +25,7 @@ const profile = {
       {
         iconName: 'email',
         text: 'email@email.com',
-        url: 'mailto://email@email.com',
+        url: 'mailto://ryanlimjunbin@gmail.com',
         hoverColor: '#546e7a'
       },
       {
@@ -47,8 +45,8 @@ const profile = {
     },
     {
       iconName: 'telegram',
-      url: 'https://t.me/username',
-      text: "I'm on Telegram",
+      url: 'https://t.me/@JiW_0N',
+      text: "Contact me on Telegram",
       hoverColor: '#0088cc'
     },
     {
@@ -59,7 +57,7 @@ const profile = {
     },
     {
       iconName: 'email',
-      url: 'mailto:email@email.co',
+      url: 'mailto:ryanlimjunbin@gmail.com',
       text: 'Send me an email',
       hoverColor: '#000'
     }
