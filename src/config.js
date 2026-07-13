@@ -66,22 +66,36 @@ const profile = {
 
 const projects = [
   {
-    title: 'Project Title #1',
+    title: 'Fiido Wiring Service',
     img: '',
     description: 'Lorem ipsum dolor sit amet, in nulla hendrerit ius, sed et congue graeci, qui id propriae accusata.',
-    categories: ['Sample', 'Open source', 'React'],
+    categories: ['YYK Controller', 'HM Motor'],
     siteUrl: 'https://amazing.project.com',
     sourceCodeUrl: 'https://github.com/user/project'
   },
   {
-    title: 'Project Title #2',
+    title: 'HM Motor Hall Sensor Replacement',
     img: 'https://www.nethruster.com/assets/img/icons/apple-touch-icon.png',
     description: 'Lorem ipsum dolor sit amet, in nulla hendrerit ius, sed et congue graeci, qui id propriae accusata.',
-    categories: ['Sample', 'Freeware', 'Go'],
+    categories: ['Hall Sensor', 'HM Motor', 'Go'],
     siteUrl: 'https://amazing.project.com'
   },
   {
-    title: 'Project Title #3',
+    title: 'HM Motor Bearing Replacement',
+    img: 'https://www.nethruster.com/assets/img/wareader.svg',
+    description: 'Lorem ipsum dolor sit amet, in nulla hendrerit ius, sed et congue graeci, qui id propriae accusata.',
+    categories: ['Wat', 'Linux', 'LoL'],
+    sourceCodeUrl: 'https://github.com/user/:O'
+  },
+  {
+    title: 'HM Motor Rephase AWG Wire',
+    img: 'https://www.nethruster.com/assets/img/wareader.svg',
+    description: 'Lorem ipsum dolor sit amet, in nulla hendrerit ius, sed et congue graeci, qui id propriae accusata.',
+    categories: ['Wat', 'Linux', 'LoL'],
+    sourceCodeUrl: 'https://github.com/user/:O'
+  },
+  {
+    title: 'YYK Conroller Fully AWG',
     img: 'https://www.nethruster.com/assets/img/wareader.svg',
     description: 'Lorem ipsum dolor sit amet, in nulla hendrerit ius, sed et congue graeci, qui id propriae accusata.',
     categories: ['Wat', 'Linux', 'LoL'],
